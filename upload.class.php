@@ -9,6 +9,8 @@
  * 4、使用 getFileName 方法获取上传后的文件名
  * 5、使用 getErrorMsg 方法获取错误信息
  */
+namespace He110\Despote;
+
 class Upload
 {
     // 上传文件保存的路径
